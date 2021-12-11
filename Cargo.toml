@@ -3,5 +3,6 @@ members = [
     "lib",
     "day1",
     "day2",
-    "day7"
+    "day7",
+    "day10"
 ]
